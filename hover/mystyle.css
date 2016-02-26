@@ -1,0 +1,36 @@
+div.block1 {
+	background-color: white;
+	border: black 2px solid;
+	width: 500px;
+	height: 500px;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	
+}
+
+div.black {
+	position: relative;
+	top: 35%;
+	color: black;
+	text-align: center;
+	font-size: 100px;
+}
+
+div.white {
+	position: relative;
+	top: 35%;
+	color: white;
+	text-align: center;
+	font-size: 100px;
+}
+
+div.block2 {
+	background-color: black;
+	border: white 2px solid;
+	width: 500px;
+	height: 500px;
+	position: absolute;
+	left: 520px;
+	top: 0px;
+}
