@@ -1,0 +1,22 @@
+h1 {
+	color: #008000;
+	font-size: 20px;
+}
+
+div.block1 {
+	background: #c0e4ff;
+	border: black 2px solid;
+	padding: 5px;
+	width: 500px;
+	height: 400px;
+}
+
+div.block2 {
+	position: relative;
+	left: 150px;
+	background: #ffa0c5;
+	border: black 2px solid;
+	padding: 5px;
+	width: 250px;
+	height: 200px;
+}
